@@ -1,2 +1,2 @@
 # Gamemode-Permissions
-Specify permission node for each gamemode
+Specify permission nodes for each gamemode.
