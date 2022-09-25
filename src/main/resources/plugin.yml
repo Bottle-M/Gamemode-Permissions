@@ -1,0 +1,7 @@
+name: GamemodePermissions
+version: '${project.version}'
+main: somebottle.gamemodepermissions.GamemodePermissions
+api-version: 1.19
+authors: [ SomeBottle ]
+description: Specify permission nodes for each gamemode.
+website: https://github.com/Bottle-M
