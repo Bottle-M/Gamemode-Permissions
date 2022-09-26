@@ -54,7 +54,7 @@ Above all, **you should first** add the permission `minecraft.command.gamemode` 
 
 | Permission nodes| Description | Command example |
 |:---:|:---:|:---:|
-| `minecraft.command.gamemode.*` | Allows the **sender** to **have full access** to the command `gamemode`. |`/gamemode <survival|creative|spectator|adventure> [<target>]`|
+| `minecraft.command.gamemode.*` | Allows the **sender** to **have full access** to the command `gamemode`. |`/gamemode <survival\|creative\|spectator\|adventure> [<target>]`|
 | `minecraft.command.gamemode.survival.*` | Allows the **sender** to set any player's mode to **survival** |`/gamemode survival [<target>]`|
 | `minecraft.command.gamemode.creative.*` | ~ **creative** |`/gamemode creative [<target>]`|
 | `minecraft.command.gamemode.adventure.*` | ~ **adventure** |`/gamemode adventure [<target>]`|
