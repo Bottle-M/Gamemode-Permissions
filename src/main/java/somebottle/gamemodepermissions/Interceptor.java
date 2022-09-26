@@ -59,6 +59,10 @@ public class Interceptor implements Listener {
             }
             // 玩家如果没有对应权限就取消事件
             Permission checker = new Permission();
+            // 如果玩家是Operator就默认拥有所有权限, 不作拦截处理
+            if (sender.isOp()) {
+                return;
+            }
             // 检查是否拥有权限
             if (!checker.test(sender, targetNode)) {
                 event.setCancelled(true);
