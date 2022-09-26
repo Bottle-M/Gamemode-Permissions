@@ -13,6 +13,7 @@ A Simple Bukkit/Spigot Plugin for Minecraft Server to specify permission nodes f
         - [(Key Point 2)](#key-point-2)
     - [Operators](#operators)
 - [Screenshots](#screenshots)
+- [License](#license)
 
 ## Why I made this
 I'm recently working on my Minecraft server, and I found it unable to deprive a permission group of the permission to switch to creative mode.   
